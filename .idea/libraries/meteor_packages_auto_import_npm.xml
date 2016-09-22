@@ -1345,6 +1345,7 @@
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/fontsize.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/big.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/fontcolor.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/small.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/sup.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/strike.js" />
@@ -6260,6 +6261,7 @@
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/fontsize.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/big.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/fontcolor.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/npm/node_modules/semver/semver.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/small.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/sup.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-compiler/6.9.1/npm/node_modules/core-js/fn/string/strike.js" />

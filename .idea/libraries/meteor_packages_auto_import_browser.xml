@@ -71,7 +71,11 @@
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/builtins.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/preamble.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/domrange.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
+        <item url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tokens.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tojs.js" />
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/preamble.js" />
         <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/web.browser/multi-file-caching-compiler.js" />
@@ -204,7 +208,11 @@
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/builtins.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/preamble.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze/2.1.8/web.browser/domrange.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/ReactMeteorData.jsx" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/react-meteor-data.jsx" />
+      <root url="file://$USER_HOME$/.meteor/packages/react-meteor-data/0.2.9/web.browser/createContainer.jsx" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tokens.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/tmeasday_check-npm-versions/0.2.0/web.browser/check-npm-versions.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/tojs.js" />
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.9/web.browser/preamble.js" />
       <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/web.browser/multi-file-caching-compiler.js" />
