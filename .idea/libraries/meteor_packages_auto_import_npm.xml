@@ -3039,9 +3039,6 @@
         <item url="file://$USER_HOME$/.meteor/packages/babel-runtime/0.1.11/npm/node_modules/regenerator-runtime/runtime-module.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-runtime/0.1.11/npm/node_modules/regenerator-runtime/runtime.js" />
         <item url="file://$USER_HOME$/.meteor/packages/babel-runtime/0.1.11/npm/node_modules/meteor-babel-helpers/index.js" />
-        <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/npm/node_modules/async/lib/async.js" />
-        <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/npm/node_modules/async/support/sync-package-managers.js" />
-        <item url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/npm/node_modules/lru-cache/lib/lru-cache.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/npm/node_modules/lolex/lolex.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/npm/node_modules/lolex/src/lolex.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/npm/node_modules/faye-websocket/lib/faye/websocket.js" />
@@ -7955,9 +7952,6 @@
       <root url="file://$USER_HOME$/.meteor/packages/babel-runtime/0.1.11/npm/node_modules/regenerator-runtime/runtime-module.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-runtime/0.1.11/npm/node_modules/regenerator-runtime/runtime.js" />
       <root url="file://$USER_HOME$/.meteor/packages/babel-runtime/0.1.11/npm/node_modules/meteor-babel-helpers/index.js" />
-      <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/npm/node_modules/async/lib/async.js" />
-      <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/npm/node_modules/async/support/sync-package-managers.js" />
-      <root url="file://$USER_HOME$/.meteor/packages/caching-compiler/1.0.6/npm/node_modules/lru-cache/lib/lru-cache.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/npm/node_modules/lolex/lolex.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/npm/node_modules/lolex/src/lolex.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.9/npm/node_modules/faye-websocket/lib/faye/websocket.js" />
